@@ -18,14 +18,20 @@ Sites
 
 <hr>
 
-## Project
+## 📖 Project
 
-### Solo
+#### Solo
 - FotScore 심플하고 편리한 해외축구 일정 앱
 
-### Team Project
+#### Team Project
 - Q'drop 면접과 기술질문을 보다 쉽게
 - Deats 컬러풀카드 지침서
+
+<hr>
+
+## 💼 Job
+
+<a href="https://clovine.com/kr">(주)헤븐트리</a> | Front-end developer (21.07~22.12)
   
 
 <!--
