@@ -26,7 +26,7 @@ Portpolio
 ## 📖 Project
 
 #### Solo
-- FotScore 심플하고 편리한 해외축구 일정 앱
+- FotScore 심플하고 편리한 해축일정
 
 #### Team Project
 - Q'drop 면접과 기술질문을 보다 쉽게
