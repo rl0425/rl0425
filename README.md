@@ -14,8 +14,19 @@ Tech
 Sites
 
 <a href="https://github.com/rl0425?tab=repositories"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+<a href="https://velog.io/@rl0425"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
+<hr>
 
+## Project
+
+### Solo
+- FotScore 심플하고 편리한 해외축구 일정 앱
+
+### Team Project
+- Q'drop 면접과 기술질문을 보다 쉽게
+- Deats 컬러풀카드 지침서
+  
 
 <!--
 **rl0425/rl0425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
