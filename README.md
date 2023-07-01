@@ -1,4 +1,4 @@
-### Hi there
+### Hi there !
 
 # About 🙌
 
@@ -15,6 +15,11 @@ Sites
 
 <a href="https://github.com/rl0425?tab=repositories"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 <a href="https://velog.io/@rl0425"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+
+Portpolio
+
+<a href="https://github.com/rl0425?tab=repositories"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://github.com/rl0425?tab=repositories"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 
 <hr>
 
