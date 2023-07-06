@@ -29,7 +29,7 @@ Portpolio
 - FotScore 심플하고 편리한 해축일정
 
 #### Team Project
-- Q'drop 면접과 기술질문을 보다 쉽게
+- <a href="https://github.com/rl0425/Q-drop">Q'drop</a> 면접과 기술질문을 보다 쉽게
 - Deats 컬러풀카드 지침서
 
 <hr>
