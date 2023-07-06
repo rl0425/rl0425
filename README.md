@@ -26,7 +26,7 @@ Portpolio
 ## 📖 Project
 
 #### Solo
-- FotScore 심플하고 편리한 해축일정
+- <a href="https://github.com/rl0425/FOTSCORE">FotScore</a> 심플하고 편리한 해외축구 일정
 
 #### Team Project
 - <a href="https://github.com/rl0425/Q-drop">Q'drop</a> 면접과 기술질문을 보다 쉽게
