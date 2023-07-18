@@ -18,7 +18,7 @@ Sites
 
 Portpolio
 
-<a href="https://github.com/rl0425?tab=repositories"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="http://portfolio-gichan.s3-website.ap-northeast-2.amazonaws.com/"><img src="https://img.shields.io/badge/포트폴리오-8A2BE2"/></a>
 <a href="https://github.com/rl0425?tab=repositories"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 
 <hr>
