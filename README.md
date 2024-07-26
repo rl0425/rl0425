@@ -16,11 +16,6 @@ Sites
 <a href="https://github.com/rl0425?tab=repositories"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
 <a href="https://velog.io/@rl0425"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
 
-Portpolio
-
-<a href="http://portfolio-gichan.s3-website.ap-northeast-2.amazonaws.com/"><img src="https://img.shields.io/badge/포트폴리오-8A2BE2"/></a>
-<a href="https://github.com/rl0425?tab=repositories"><img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>
-
 <hr>
 
 ## 📖 Project
