@@ -14,7 +14,7 @@
 ## 💼 Job
 
 <a href="https://clovine.com/kr">(주)헤븐트리</a> | Front-end developer (21.07~22.12)
-  
+<a href="https://www.classu.co.kr/new">(주)클래스유</a> | Front-end developer (23.08~ING)
 
 <!--
 **rl0425/rl0425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
